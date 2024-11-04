@@ -2,7 +2,7 @@
 A deep CNN for classifying types of plankton from a small (n=1,617) multiclass (12 class) dataset of low-resolution plankton images, including techniques for improving accuracy on a small multiclass dataset with imbalanced classes. This was completed as a piece of 4th year university coursework.
 
 The Jupyter notebook contains:
-* Code for data loading with image normalisation
-* Data augmentation using random rotations and cropping to increase dataset size and balance classes
-* An implementation of a CNN architecture to classify the types of plankton in the images
-* Model architecture changes and hyperparameter optimisation (using K-fold cross-validation)
+* Code for data loading with image normalisation.
+* Data augmentation using random rotations and cropping to increase dataset size and balance classes.
+* An implementation of a CNN architecture to classify the types of plankton in the images.
+* Model architecture changes and hyperparameter optimisation (using K-fold cross-validation).
